@@ -341,11 +341,11 @@ message: wm,
 orderTitle: 'WaBot',
 thumbnail: imagen2, 
 sellerJid: '0@s.whatsapp.net' }}}}      
-const owner = "5219992095479@s.whatsapp.net"
+const owner = "573219461711@s.whatsapp.net"
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]
 const buttons = [
-{buttonId: `#donar`, buttonText: {displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮'}, type: 1},
+//{buttonId: `#donar`, buttonText: {displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮'}, type: 1},
 {buttonId: `#menuaudios`, buttonText: {displayText: '🔊 𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂 🔊'}, type: 1},
 {buttonId: `#menucompleto`, buttonText: {displayText: '💟 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 💟'}, type: 1}, ]
 let buttonMessage = {
@@ -356,7 +356,7 @@ jpegThumbnail: imagen1,
 caption: texto1,
 fileLength: "99999999999999",
 mentions:[m.sender, owner],
-footer: `𝔹𝕪 𝔹𝕣𝕦𝕟𝕠 𝕊𝕠𝕓𝕣𝕚𝕟𝕠`,
+footer: `Chupalo`,
 buttons: buttons,
 headerType: 4,   
 contextInfo: {
