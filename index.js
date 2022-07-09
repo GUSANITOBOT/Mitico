@@ -16,11 +16,11 @@ const rl = createInterface(process.stdin, process.stdout)
 say('Mystic - Bot\nWhatsApp Bot MD', {
 font: 'chrome',
 align: 'center',
-gradient: ['red', 'magenta']})
-say(`Bot creado por Bruno Sobrino`, {
+gradient: ['blue', 'magenta']})
+say(`CHUPALO`, {
 font: 'console',
 align: 'center',
-gradient: ['red', 'magenta']})
+gradient: ['blue', 'magenta']})
 
 var isRunning = false
 /**
