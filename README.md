@@ -38,7 +38,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/Mitico
+> git clone https://github.com/BotSatMagic/Mitico
 > cd Mitico
 > yarn install 
 > npm install
